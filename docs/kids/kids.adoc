@@ -5,5 +5,5 @@ include::general.adoc[leveloffset=+1]
 include::luna.adoc[leveloffset=+1]
 include::loki.adoc[leveloffset=+1]
 
-. Kavics és tasakos kutyakaja
+.Kavics és tasakos kutyakaja
 image::kavics.jpeg[width=1024,alt="Kavics, tasakos kutya kaja"]

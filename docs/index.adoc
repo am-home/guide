@@ -1,0 +1,16 @@
+ifndef::imagesdir[:imagesdir: ./images]
+:toc: left
+:toclevels: 4
+:sectnums:
+:sectnumlevels: 4
+
+= Útmutató: Fillér utca 22. II./1.
+
+Elérhető online: am-home.github.io/guide/
+
+image::guide.png[width=512,alt="Útmutató online",opts=inline]
+
+include::kids/kids.adoc[leveloffset=+1]
+include::tech/tech.adoc[leveloffset=+1]
+
+

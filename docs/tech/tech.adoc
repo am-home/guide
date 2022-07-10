@@ -1,0 +1,34 @@
+ifndef::imagesdir[:imagesdir: ../images]
+= Technikai leírások
+
+== Világítás
+
+Nappaliban automata
+
+. Naplemente előtt 30 perccel felkapcsol minden
+. 21:30-kor a csillár lekapcsol, az állólámpa enyhe fénnyel világít
+. 22:45-kor lekapcsol az állólámpa is
+
+Ha kézzel szeretnétek, ahhoz az *IKEA Home Smart* alkalmazást kell letölteni, ha QR kódot kér, az a tv jobb oldalán, kör alakú fehér jeltovabbító alján van, utána wifi-n keresztül fel is fogja ismerni a lámpákat.
+Vagy *iPad-en már telepítve* van,
+azon is tudjátok irányítani.
+
+Ha nem megy, akkor a falon a hőmérő mellett van a kapcsolója,
+gombnyomásra mindent átkapcsol, azaz ha a csillár le van kapcsolva,
+de a kislámpa fel, akkor csillárt fel, a kislámpát lekapcsolja.
+Hosszan nyomva szinkronizálja a lámpákat, mindet felkapcsolja,
+utána rövid nyomás és minden lekapcsolható.
+
+== TV
+Home gombbal lehet váltani alkalmazást,
+T-Home a kábel tv, Disney+, Netflix, HBO Max előfizetések be vannak állítva,
+nézzétek nyugodtan, Plex-en letöltött filmek vannak.
+
+== Klima
+
+Fehér távirányítóval bekapcsolható, ha állítanátok akkor a csuszkákkal kell beállítani amit szeretnétek és utána `signal` gomb.
+Ha bekapcsoljátok Loki kalitkáját légyszi toljátok az erkély ajtó elé, ne menjen rá a huzat.
+
+== Gyógyszerek
+
+Ha valamire szükség lenne a fürdőszobában a kisszekrényben van a gyógyszeres doboz

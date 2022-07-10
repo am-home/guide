@@ -1,0 +1,12 @@
+ifndef::imagesdir[:imagesdir: ../images]
+= Kölykök egyedül
+
+* Loki kalitkában
+* TV-t kapcsolj légyszi valami mese csatornán
+* Fürdőszoba és folyosó ajtót be kell csukni
+* folyosó ajtó becsukása Lunának lehet adni egy juti falit.
+
+== Vihar
+
+* Mindketten félnek, Loki a villámtól, Luna a dörgéstől
+* Ha sötétben villámlik le kell húzni a redőnyöket

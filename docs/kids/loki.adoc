@@ -1,0 +1,95 @@
+ifndef::imagesdir[:imagesdir: ../images]
+= Loki
+
+NOTE:: Ha potyogtat ne törődj vele, ha hazaérünk feltakarítjuk
+
+== Reggeli
+Reggelire új adag lágyeleség, gyümölcs, magkeverék és víz kell, ami eleség és gyümölcs maradt
+előző napról a tálban az kuka (ez lehet akár a 80%-a annak ami eredetileg benne volt,
+nem kell megijedni).
+
+=== Lágy-eleség
+
+==== Hozzávalók
+
+* 2 nagy evőkanál lágy-eleség keverék
+* 1 nagy evőkanál víz
+* 2cm-nyi répa
+* 1 ujjnyi kaliforniai paprika
+* 1 ujjnyi kígyóuborka
+* 1 főtt tojás
+* 1/4 adagoló kanálnyi nagy dobozos vitamin (kanál a dobozban)
+* 1 nagy csipet kavics (konyha ajtó mögötti szekrények a műanyag doboz jobb alsó sarkában nyitott zacskóban)
+
+==== Elkészítés
+
+. Két nagy evőkanál keveréket elkeverünk egy nagy evőkanál vízzel.
++
+.Lágy-eleség keverék
+image::eleseg.jpeg[width=256,alt="lágy-eleség keverék",opts=inline]
++
+. Kb. 2 cm-nyi répát, 1 ujjnyi szelet kaliforniai paprikát, szintén 1 ujjnyi uborkát belekockázunk
++
+.Zöldségek
+image::lagy1.jpeg[width=256,alt="Vitamin",opts=inline]
++
+. A főtt tojás héját belemorzsoljuk, majd belekockázzuk a tojás fehérjét
++
+.Tojás
+image::lagy2.jpeg[width=256,alt="Vitamin",opts=inline]
++
+. A tál tartalmát alaposan összekeverjük
+. A keverék tetejére aprítjuk a tojás sárgáját.
+. A nagyobbik vitaminos dobozból egy negyed kanálnyi vitamin egyenletesen rászórunk (adagoló kanál a dobozban)
++
+.Vitamin
+image::vitamin.jpeg[width=256,alt="Vitamin",opts=inline]
++
+. Egy nagy csipet kaviccsal díszítjük.
++
+.Lágy-eleség
+image::lagy2.jpeg[width=256,alt="Vitamin",opts=inline]
++
+
+
+
+=== Gyümölcs keverék
+
+Gyümölcskeverékbe mehet egy fél mandarin, 3 szám félbe vágott szőlő,
+alma, körte meg ami gyümölcs van az felkockázva, gránátalmából
+a többi gyümölcshöz képest kicsit több mehet bele.
+
+.Gyümölcs tál
+image::gyumi.jpeg[width=256,alt="lágy-eleség keverék",opts=inline]
+
+.Magvas tál
+image::mag.jpeg[width=256,alt="lágy-eleség keverék",opts=inline]
+
+NOTE:: Ha esetleg valami elfogy és venni kell, kifizetjük ha hazaértünk.
+
+== Vacsora
+
+Este hat körül a lágy-eleséges tál tartalmát átkeverjük,
+majd a tetejére aprítunk 1 tojás sárgáját.
+A tojás héj+fehérjére nincs szükség Lunanák ne adjátok oda, mert lerontja a gyomrát.
+
+Ha napközben kiszórta, megette a gyümölcsöt, akkor minimálisan lehet feltölteni.
+
+Magkeverékből ha kifogyott a szotyi azt pótoljuk.
+
+== Elrakás
+
+Kézfej odatartásra általában rálép, ha esetleg nem,
+akkor két oldalról lehet közelíteni a kézfejed, akkor az egyikre rá fog lépni.
+
+IMPORTANT:: Ha napfelkelténél tovább szeretnétek aludni, minden redőnyt le kell húzni a hálóban
+
+== Játszótér, kalitka, tálak
+
+* A gyümölcsös tálat a tartójával együtt lehet a kalitka és játszótér között mozgatni
+* A lágy-eleséges tálnak van külön tartója a kalitkában és a játszótéren is
+* Víz és magok külön vannak a kalitkában és a játszótéren.
+
+.Játszótér tálak
+image::talak.jpeg[width=512,alt="Játszótér tálak",opts=inline]
+

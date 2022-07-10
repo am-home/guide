@@ -48,7 +48,7 @@ image::vitamin.jpeg[width=256,alt="Vitamin",opts=inline]
 . Egy nagy csipet kaviccsal díszítjük.
 +
 .Lágy-eleség
-image::lagy2.jpeg[width=256,alt="Vitamin",opts=inline]
+image::lagy3.jpeg[width=256,alt="Vitamin",opts=inline]
 +
 
 

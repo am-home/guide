@@ -11,7 +11,7 @@ Nappaliban automata
 
 Ha kézzel szeretnétek, ahhoz az *IKEA Home Smart* alkalmazást kell letölteni, ha QR kódot kér, az a tv jobb oldalán, kör alakú fehér jeltovabbító alján van, utána wifi-n keresztül fel is fogja ismerni a lámpákat.
 Vagy *iPad-en már telepítve* van,
-azon is tudjátok irányítani.
+azon is tudjátok irányítani. iPad-et lehet tölteni a nappali asztalon lévő MacBook töltővel.
 
 Ha nem megy, akkor a falon a hőmérő mellett van a kapcsolója,
 gombnyomásra mindent átkapcsol, azaz ha a csillár le van kapcsolva,

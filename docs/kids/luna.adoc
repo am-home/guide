@@ -2,31 +2,30 @@ ifndef::imagesdir[:imagesdir: ../images]
 = Luna
 
 == Étkezés
-Reggelire séta után *45g száraztáp + 45g tasakos* a tetejére.
+Reggelire séta után *75g száraztáp*.
 
-Vacsora negyed hét és hét között (ha később értek haza akkor sem fog éhen halni)
-*45g száraztáp + 45g tasakos* a tetejére.
+Vacsora hat és hét között (ha később érsz haza akkor sem fog éhen halni)
+*75g száraztáp*.
 
-Száraztáp a konyha ajtó melletti széken zsákban, tasakos ha van bontott,
-akkor a hűtőben, ha nincs akkor az ajtó mögötti polcon található.
+Száraztáp a konyha ajtó melletti széken zsákban található.
 
 == Séta
 
 Hám helye: fürdőszoba földön
 
-* Reggel felkelés után, 8 körül
-* Munka után hazaérve
-* Vacsi után (Ha úgy alakul egybe is eshet a hazaérkezőssel)
-* Utána hozza a hámot, vagy beül a fürdőszoba ajtóba és néz
-** Ha séta után egy órán belül megint hozza, akkor az hiszti
+* Reggel felkelés után
+* Munka után hazaérve, ha ez egybe esik a vacsival, akkor előbb vacsi.
+* Vacsi után (Ha nem esett egybe a hazaérkezőssel)
+* Utána hozza a hámot, vagy beül a fürdőszoba ajtóba és néz, ha kell menni, de ez nem mindig kell.
+** Ha séta után egy/másfél órán belül megint hozza, akkor az hiszti
 * Utolsó séta 10 körül szokott lenni, de csak egy pisi
 * Sétáltatós zacsi az előszobában a kis asztalon
-* Ha kakilt, akkor szokott fent kapni egy juti falit
+* Ha kakilt, akkor szokott fent kapni 3 db juti falit az üvegtálból a kisasztalon.
 
 == Játék
 
-* labdázás max este 8-ig, utána legfeljebb kötél húzás
-* Üres műanyag palackokat imádja, ha megtartanátok, akkor érdemes asztalra, polcra tenni, mert 2 pillanat alatt ellopja
+* labdázás max este 7-ig, utána legfeljebb kötél húzás
+* Üres műanyag palackokat imádja, ha megtartanád, akkor érdemes asztalra, polcra tenni, mert 2 pillanat alatt ellopja
 
 == Állatorvos
 

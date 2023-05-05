@@ -15,11 +15,13 @@ nem kell megijedni).
 * 2 nagy evőkanál lágy-eleség keverék
 * 1 nagy evőkanál víz
 * 2cm-nyi répa
-* 1 ujjnyi kaliforniai paprika
+* paprika (kb két ujjnyi vágás az oldaláról
 * 1 ujjnyi kígyóuborka
+* ha van még zöldség a tálban abból mehet hasonló mennyiség
 * 1 főtt tojás
 * 1/4 adagoló kanálnyi nagy dobozos vitamin (kanál a dobozban)
 * 1 nagy csipet kavics (konyha ajtó mögötti szekrények a műanyag doboz jobb alsó sarkában nyitott zacskóban)
+
 
 ==== Elkészítés
 
@@ -28,54 +30,54 @@ nem kell megijedni).
 .Lágy-eleség keverék
 image::eleseg.jpeg[width=256,alt="lágy-eleség keverék",opts=inline]
 +
-. Kb. 2 cm-nyi répát, 1 ujjnyi szelet kaliforniai paprikát, szintén 1 ujjnyi uborkát belekockázunk
+. a zöldségeket belekockázunk
 +
 .Zöldségek
-image::lagy1.jpeg[width=256,alt="Vitamin",opts=inline]
+image::lagy1.jpeg[width=256,alt="zöldségek",opts=inline]
 +
-. A főtt tojás héját belemorzsoljuk, majd belekockázzuk a tojás fehérjét
+. A főtt tojás héját, vagy egy részét belemorzsoljuk (nem muszaj mindet, ha nagyon nehez hámozni akkor amennyit sikerül)
+, majd belekockázzuk a tojás fehérjét
 +
 .Tojás
-image::lagy2.jpeg[width=256,alt="Vitamin",opts=inline]
+image::lagy2.jpeg[width=256,alt="tojás",opts=inline]
 +
 . A tál tartalmát alaposan összekeverjük
 . A keverék tetejére aprítjuk a tojás sárgáját.
-. A nagyobbik vitaminos dobozból egy negyed kanálnyi vitamin egyenletesen rászórunk (adagoló kanál a dobozban)
+. A képen látható vitaminos dobozból egy negyed kanálnyi vitamin egyenletesen rászórunk (adagoló kanál a dobozban)
 +
 .Vitamin
 image::vitamin.jpeg[width=256,alt="Vitamin",opts=inline]
 +
-. Egy nagy csipet kaviccsal díszítjük.
+. Egy nagy csipet kavicsot szintén egyenletesen rászórunk.
 +
 .Lágy-eleség
-image::lagy3.jpeg[width=256,alt="Vitamin",opts=inline]
+image::lagy3.jpeg[width=256,alt="lagy-eleseg",opts=inline]
 +
 
 
 
 === Gyümölcs keverék
 
-Gyümölcskeverékbe mehet egy fél mandarin, 3 szám félbe vágott szőlő,
+Gyümölcskeverékbe mehet egy fél mandarin, 3-4 szem félbe vágott szőlő,
 alma, körte meg ami gyümölcs van az felkockázva, gránátalmából
 a többi gyümölcshöz képest kicsit több mehet bele.
 
 .Gyümölcs tál
-image::gyumi.jpeg[width=256,alt="lágy-eleség keverék",opts=inline]
+image::gyumi.jpeg[width=256,alt="gyumolcs-tal,opts=inline]
 
+=== Magkeverék
+Magkeverék a konyhai polcon van, abból egy marék a tálba, tetejére szotyi.
 .Magvas tál
-image::mag.jpeg[width=256,alt="lágy-eleség keverék",opts=inline]
+image::mag.jpeg[width=256,alt="magkeverék",opts=inline]
 
 NOTE:: Ha esetleg valami elfogy és venni kell, kifizetjük ha hazaértünk.
 
+=== Kiszórás
+A lágyeleséget hajlamos kiszórni, ha kint van, emiatt általában reggeli a kalitkában van, 
+ha napközben ki is engedjük, akkor az a tál marad a kalitkában, csak vacsinál vesszük ki.
+
 == Vacsora
-
-Este hat körül a lágy-eleséges tál tartalmát átkeverjük,
-majd a tetejére aprítunk 1 tojás sárgáját.
-A tojás héj+fehérjére nincs szükség Lunanák ne adjátok oda, mert lerontja a gyomrát.
-
-Ha napközben kiszórta, megette a gyümölcsöt, akkor minimálisan lehet feltölteni.
-
-Magkeverékből ha kifogyott a szotyi azt pótoljuk.
+Ha a magkeverékből ha kifogyott a szotyi azt pótoljuk.
 
 == Elrakás
 

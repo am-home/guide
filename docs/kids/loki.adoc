@@ -67,6 +67,7 @@ image::gyumi.jpeg[width=256,alt="gyumolcs-tal,opts=inline]
 
 === Magkeverék
 Magkeverék a konyhai polcon van, abból egy marék a tálba, tetejére szotyi.
+
 .Magvas tál
 image::mag.jpeg[width=256,alt="magkeverék",opts=inline]
 

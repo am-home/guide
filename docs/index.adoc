@@ -8,7 +8,7 @@ ifndef::imagesdir[:imagesdir: ./images]
 
 Elérhető online: https://petrenyi.eu[petrenyi.eu]
 
-image::guide.png[width=512,alt="Útmutató online",opts=inline,link="https://petrenyi.eu"]
+image::guide.svg[width=512,alt="Útmutató online",opts=inline,link="https://petrenyi.eu"]
 
 include::kids/kids.adoc[leveloffset=+1]
 include::tech/tech.adoc[leveloffset=+1]

@@ -4,7 +4,7 @@ ifndef::imagesdir[:imagesdir: ./images]
 :sectnums:
 :sectnumlevels: 4
 
-= Útmutató: Fillér utca 22. II./1.
+= Útmutató: F22
 
 Elérhető online: am-home.github.io/guide/
 

@@ -4,7 +4,7 @@ ifndef::imagesdir[:imagesdir: ../images]
 == Étkezés
 Reggelire séta után *75g száraztáp*.
 
-Vacsora hat és hét között (ha később érsz haza akkor sem fog éhen halni)
+Vacsora hat és hét között (ha később érsz haza akkor sem fog éhen halni) szintén
 *75g száraztáp*.
 
 Száraztáp a konyha ajtó melletti széken zsákban található.
@@ -16,15 +16,17 @@ Hám helye: fürdőszoba földön
 * Reggel felkelés után
 * Munka után hazaérve, ha ez egybe esik a vacsival, akkor előbb vacsi.
 * Vacsi után (Ha nem esett egybe a hazaérkezőssel)
-* Utána hozza a hámot, vagy beül a fürdőszoba ajtóba és néz, ha kell menni, de ez nem mindig kell.
-** Ha séta után egy/másfél órán belül megint hozza, akkor az hiszti
-* Utolsó séta 10 körül szokott lenni, de csak egy pisi
+* Utána (8-9 között) hozza a hámot, vagy beül a fürdőszoba ajtóba és néz, ha kell menni, de ez nem mindig kell.
+** Ha vacsora séta után egy órán belül megint hozza, akkor az hiszti
+** Ha nem hozza a hámot, akkor nem kell külön levinni, kibírja az esti sétáig
+* Utolsó séta 10 körül szokott lenni.
 * Sétáltatós zacsi az előszobában a kis asztalon
 * Ha kakilt, akkor szokott fent kapni 3 db juti falit az üvegtálból a kisasztalon.
 
 == Játék
 
 * labdázás max este 7-ig, utána legfeljebb kötél húzás
+* ha megunja a labdát, de még játszana, akkor a "dobálós"-t lehet kérni, hogy keresse meg
 * Üres műanyag palackokat imádja, ha megtartanád, akkor érdemes asztalra, polcra tenni, mert 2 pillanat alatt ellopja
 
 == Állatorvos
@@ -36,5 +38,3 @@ Telefon:: +36-20-515-1675
 Cím:: Budapest, Medve u. 23, 1027
 
 Kiskönyv a hálóban a bejárathoz közelebbi éjjeli szekrény felső fiókjában.
-
-

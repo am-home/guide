@@ -14,12 +14,12 @@ nem kell megijedni).
 
 * 2 nagy evőkanál lágy-eleség keverék
 * 1 nagy evőkanál víz
-* 2cm-nyi répa
-* paprika (kb két ujjnyi vágás az oldaláról
+* kb 2cm-nyi répa, kereszt alakban bemetszük és karikázzuk
+* paprika (kb két ujjnyi vágás az oldaláról, felkozkázva)
 * 1 ujjnyi kígyóuborka
-* ha van még zöldség a tálban abból mehet hasonló mennyiség
+* ha van még zöldség abból mehet hasonló mennyiség
 * 1 főtt tojás
-* 1/4 adagoló kanálnyi nagy dobozos vitamin (kanál a dobozban)
+* 1/4 adagoló kanálnyi vitamin (kanál a dobozban)
 * 1 nagy csipet kavics (konyha ajtó mögötti szekrények a műanyag doboz jobb alsó sarkában nyitott zacskóban)
 
 
@@ -63,7 +63,7 @@ alma, körte meg ami gyümölcs van az felkockázva, gránátalmából
 a többi gyümölcshöz képest kicsit több mehet bele.
 
 .Gyümölcs tál
-image::gyumi.jpeg[width=256,alt="gyumolcs-tal,opts=inline]
+image::gyumi.jpeg[width=256,alt="gyumolcs-tal",opts=inline]
 
 === Magkeverék
 Magkeverék a konyhai polcon van, abból egy marék a tálba, tetejére szotyi.
@@ -84,8 +84,9 @@ Ha a magkeverékből ha kifogyott a szotyi azt pótoljuk.
 
 Kézfej odatartásra általában rálép, ha esetleg nem,
 akkor két oldalról lehet közelíteni a kézfejed, akkor az egyikre rá fog lépni.
+Ha így sem megy és felfújja magát, akkor egy plédet jó vastagon a kezedre tekersz, arra mindig rálép.
 
-IMPORTANT:: Ha napfelkelténél tovább szeretnétek aludni, minden redőnyt le kell húzni a hálóban
+IMPORTANT:: Ha napfelkelténél tovább szeretnél aludni, minden redőnyt le kell húzni a nappaliban.
 
 == Játszótér, kalitka, tálak
 

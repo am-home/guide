@@ -9,7 +9,7 @@ Nappaliban automata
 . 21:30-kor a csillár lekapcsol, az állólámpa enyhe fénnyel világít
 . 22:45-kor lekapcsol az állólámpa is
 
-Ha kézzel szeretnéd, ahhoz az *IKEA Home Smart* alkalmazást kell letölteni, ha QR kódot kér, az a tv jobb oldalán, kör alakú fehér jeltovabbító alján van, 
+Ha kézzel szeretnéd, ahhoz az *IKEA Home Smart* alkalmazást kell letölteni, ha QR kódot kér, az a tv alatti, kör alakú, fehér jeltovabbító alján van, 
 utána wifi-n keresztül fel is fogja ismerni a lámpákat.
 
 Ha nem megy, akkor a falon a hőmérő mellett van a kapcsolója,

@@ -16,8 +16,8 @@ nem kell megijedni).
 * 1 nagy evőkanál víz
 * kb 2cm-nyi répa, kereszt alakban bemetszük és karikázzuk
 * paprika (kb két ujjnyi vágás az oldaláról, felkozkázva)
-* 1 ujjnyi kígyóuborka
-* ha van még zöldség abból mehet hasonló mennyiség
+* erős paprika karikázva kb egy ujjnyi
+* 1-2 ujjnyi kígyóuborka
 * 1 főtt tojás
 * 1 adagoló kanálnyi vitamin (kanál a dobozban)
 * 1 nagy csipet kavics (konyha ajtó mögötti szekrények a műanyag doboz jobb alsó sarkában nyitott zacskóban)
@@ -35,8 +35,7 @@ image::eleseg.jpeg[width=256,alt="lágy-eleség keverék",opts=inline]
 .Zöldségek
 image::lagy1.jpeg[width=256,alt="zöldségek",opts=inline]
 +
-. A főtt tojás héját, vagy egy részét belemorzsoljuk (nem muszaj mindet, ha nagyon nehez hámozni akkor amennyit sikerül)
-, majd belekockázzuk a tojás fehérjét
+. belekockázzuk a tojás fehérjét
 +
 .Tojás
 image::lagy2.jpeg[width=256,alt="tojás",opts=inline]
@@ -59,7 +58,7 @@ image::lagy3.jpeg[width=256,alt="lagy-eleseg",opts=inline]
 === Gyümölcs keverék
 
 Gyümölcskeverékbe mehet egy fél mandarin, 3-4 szem félbe vágott szőlő,
-alma, körte meg ami gyümölcs van az felkockázva, gránátalmából
+alma, körte, szilva az felkockázva, banán pár karika felezve, gránátalmából
 a többi gyümölcshöz képest kicsit több mehet bele.
 
 .Gyümölcs tál
@@ -80,8 +79,14 @@ ha napközben ki is engedjük, akkor az a tál marad a kalitkában, csak vacsin�
 == Vacsora
 Ha a magkeverékből ha kifogyott a szotyi azt pótoljuk.
 
-== Elrakás
+== Tojás főzés
+Lesz főzve pár tojás a hűtőben, ha elfogy forrástól számítva 30 percig kell főzni.
 
+== Lihegés
+Ha elkezd lihegni, eltartja magától a szárnyait és rá van fixálódva a kezedre nem kell megijedni, így szerelmeskedik. 
+Arra érdemes figyelni, hogy ilyenkor szeretetből megpróbálhat öklendezni, olyankor kicsit el kell venni tőle a kezed.
+
+== Elrakás
 Kézfej odatartásra általában rálép, ha esetleg nem,
 akkor két oldalról lehet közelíteni a kézfejed, akkor az egyikre rá fog lépni.
 Ha így sem megy és felfújja magát, akkor egy plédet jó vastagon a kezedre tekersz, arra mindig rálép.

@@ -14,10 +14,7 @@ nem kell megijedni).
 
 * 2 nagy evőkanál lágy-eleség keverék
 * 1 nagy evőkanál víz
-* kb 2cm-nyi répa, kereszt alakban bemetszük és karikázzuk
-* paprika (kb két ujjnyi vágás az oldaláról, felkozkázva)
-* erős paprika karikázva kb egy ujjnyi
-* 1-2 ujjnyi kígyóuborka
+* zöldség csomag
 * 1 főtt tojás
 * 1 adagoló kanálnyi vitamin (kanál a dobozban)
 * 1 nagy csipet kavics (konyha ajtó mögötti szekrények a műanyag doboz jobb alsó sarkában nyitott zacskóban)
@@ -30,7 +27,7 @@ nem kell megijedni).
 .Lágy-eleség keverék
 image::eleseg.jpeg[width=256,alt="lágy-eleség keverék",opts=inline]
 +
-. a zöldségeket belekockázunk
+. a zöldségek ebbe mehetnek bele
 +
 .Zöldségek
 image::lagy1.jpeg[width=256,alt="zöldségek",opts=inline]
@@ -42,7 +39,7 @@ image::lagy2.jpeg[width=256,alt="tojás",opts=inline]
 +
 . A tál tartalmát alaposan összekeverjük
 . A keverék tetejére aprítjuk a tojás sárgáját.
-. A képen látható vitaminos dobozból egy negyed kanálnyi vitamin egyenletesen rászórunk (adagoló kanál a dobozban)
+. A képen látható vitaminos dobozból egy kanálnyi vitamin egyenletesen rászórunk (adagoló kanál a dobozban)
 +
 .Vitamin
 image::vitamin.jpeg[width=256,alt="Vitamin",opts=inline]
@@ -57,15 +54,13 @@ image::lagy3.jpeg[width=256,alt="lagy-eleseg",opts=inline]
 
 === Gyümölcs keverék
 
-Gyümölcskeverékbe mehet egy fél mandarin, 3-4 szem félbe vágott szőlő,
-alma, körte, szilva az felkockázva, banán pár karika felezve, gránátalmából
-a többi gyümölcshöz képest kicsit több mehet bele.
+Gyümölcskeverék csomagolva van, úgy ahogy van mehet egy csomag a tálba
 
 .Gyümölcs tál
 image::gyumi.jpeg[width=256,alt="gyumolcs-tal",opts=inline]
 
 === Magkeverék
-Magkeverék a konyhai polcon van, abból egy marék a tálba, tetejére szotyi.
+Magkeverék és szotyi az ajtó mögötti polcon van, sárga dobozban. A keverékből és a szotyiból is egy nagy marék a tálba, tetejére 3-4 szem mogyoró.
 
 .Magvas tál
 image::mag.jpeg[width=256,alt="magkeverék",opts=inline]
@@ -77,28 +72,10 @@ A lágyeleséget hajlamos kiszórni, ha kint van, emiatt általában reggeli a k
 ha napközben ki is engedjük, akkor az a tál marad a kalitkában, csak vacsinál vesszük ki.
 
 == Vacsora
-Ha a magkeverékből ha kifogyott a szotyi azt pótoljuk.
+Ha a magkeverékből kifogyott a szotyi azt pótoljuk, meg kaphat még 2-3 mogyorót.
 
 == Tojás főzés
 Lesz főzve pár tojás a hűtőben, ha elfogy forrástól számítva 30 percig kell főzni.
 
-== Lihegés
-Ha elkezd lihegni, eltartja magától a szárnyait és rá van fixálódva a kezedre nem kell megijedni, így szerelmeskedik. 
-Arra érdemes figyelni, hogy ilyenkor szeretetből megpróbálhat öklendezni, olyankor kicsit el kell venni tőle a kezed.
-
-== Elrakás
-Kézfej odatartásra általában rálép, ha esetleg nem,
-akkor két oldalról lehet közelíteni a kézfejed, akkor az egyikre rá fog lépni.
-Ha így sem megy és felfújja magát, akkor egy plédet jó vastagon a kezedre tekersz, arra mindig rálép.
-
 IMPORTANT:: Ha napfelkelténél tovább szeretnél aludni, minden redőnyt le kell húzni a nappaliban.
-
-== Játszótér, kalitka, tálak
-
-* A gyümölcsös tálat a tartójával együtt lehet a kalitka és játszótér között mozgatni
-* A lágy-eleséges tálnak van külön tartója a kalitkában és a játszótéren is
-* Víz és magok külön vannak a kalitkában és a játszótéren.
-
-.Játszótér tálak
-image::talak.jpeg[width=512,alt="Játszótér tálak",opts=inline]
 

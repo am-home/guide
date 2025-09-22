@@ -2,26 +2,20 @@ ifndef::imagesdir[:imagesdir: ../images]
 = Luna
 
 == Étkezés
-Reggelire séta után *75g száraztáp*.
+Reggelire séta után *75g száraztáp* + 1 fél sonka összetépve a tál alján + 1 db allergia gyógyszer.
 
-Vacsora hat és hét között (ha később érsz haza akkor sem fog éhen halni) szintén
-*75g száraztáp*.
+Vacsora fél hat körül (ha később érsz haza akkor sem fog éhen halni)
+*75g száraztáp* + 1 fél sonka összetépve a tál alján.
 
 Száraztáp a konyha ajtó melletti széken zsákban található.
 
 == Séta
 
-Hám helye: fürdőszoba földön
-
 * Reggel felkelés után
 * Munka után hazaérve, ha ez egybe esik a vacsival, akkor előbb vacsi.
-* Vacsi után (Ha nem esett egybe a hazaérkezőssel)
-* Utána (8-9 között) hozza a hámot, vagy beül a fürdőszoba ajtóba és néz, ha kell menni, de ez nem mindig kell.
-** Ha vacsora séta után egy órán belül megint hozza, akkor az hiszti
-** Ha nem hozza a hámot, akkor nem kell külön levinni, kibírja az esti sétáig
-* Utolsó séta 10 körül szokott lenni.
+* Utolsó séta 8-10 között.
 * Sétáltatós zacsi az előszobában a kis asztalon
-* Ha kakilt, akkor szokott fent kapni 3 db juti falit az üvegtálból a kisasztalon.
+* Ha kakilt, akkor szokott fent kapni 2 db juti falit a tápból
 
 == Játék
 

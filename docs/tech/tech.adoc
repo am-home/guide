@@ -9,8 +9,7 @@ Nappaliban automata
 . 21:30-kor a csillár lekapcsol, az állólámpa enyhe fénnyel világít
 . 22:45-kor lekapcsol az állólámpa is
 
-Ha kézzel szeretnéd, ahhoz az *IKEA Home Smart* alkalmazást kell letölteni, ha QR kódot kér, az a tv alatti, kör alakú, fehér jeltovabbító alján van, 
-utána wifi-n keresztül fel is fogja ismerni a lámpákat.
+Ha kézzel szeretnéd, ahhoz az *IKEA Home Smart* alkalmazást kell használni
 
 Ha nem megy, akkor a falon a hőmérő mellett van a kapcsolója,
 gombnyomásra mindent átkapcsol, azaz ha a csillár le van kapcsolva,
@@ -20,17 +19,14 @@ utána rövid nyomás és minden lekapcsolható.
 
 == TV
 Home gombbal lehet váltani alkalmazást,
-T-Home a kábel tv, Disney+, Netflix, HBO Max előfizetések be vannak állítva,
+T-Home a kábel tv, Netflix, HBO Max előfizetések be vannak állítva,
 használd nyugodtan, Plex-en letöltött filmek vannak.
 
 == Klima
 
 Fehér távirányítóval bekapcsolható, a csúszkákkal kell beállítani a programot, hőmérsékletet és utána `signal` gomb.
-Ha bekapcsolod Loki kalitkáját légyszi told az erkély ajtó elé, ne menjen rá a huzat.
 
 == Gyógyszerek
 
-Ha valamire szükség lenne a fürdőszobában az ajtó melletti kisszekrényben van a gyógyszeres doboz
+Ha valamire szükség lenne a fürdőszobában az ajtó melletti kisszekrényben van a gyógyszeres doboz.
 
-== Higiénia
-Fürdőszoba szekrényekben taláható kéz törlő, nedves törlőkendő.
